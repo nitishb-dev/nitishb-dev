@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate software developer currently work
 
 <br>
 
-- Data Structures & Algorithms (Java)
+- Data Structures & Algorithms Using JAVA
   
 - Fullstack Web Development (MERN)
 
