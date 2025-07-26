@@ -1,6 +1,3 @@
-![](https://komarev.com/ghpvc/?username=nitishb-dev&color=blue)
-
-
 <h1 align="center"> Hi👋, I'm Nitish B </h1>
 
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coder" width="400" />
