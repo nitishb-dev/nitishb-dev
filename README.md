@@ -2,13 +2,15 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coder" width="400" />
 
-I'm a passionate **Software Developer** dedicated to building impactful software solutions and continually enhancing my technical expertise. Currently, I'm immersed in exciting projects like developing a **Twitter Clone using the MERN stack**.
+I'm a passionate **Software Developer** dedicated to building impactful software solutions and continually enhancing my technical expertise. Currently, I'm immersed in developing exciting projects using **Vibe Coding & Automation**.
 
 ---
 
 ## 🌱 Currently Learning
 
 * **Data Structures & Algorithms** Using JAVA
+* **n8n Automation**
+* **Vibe coding**
 * **Fullstack Web Development** (MERN)
 * **DevOps** (Docker, CI/CD Pipelines)
 
