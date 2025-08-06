@@ -11,9 +11,9 @@ I'm a passionate **Software Developer** dedicated to building impactful software
 ## 🌱 Currently Learning
 
 * **Data Structures & Algorithms** Using JAVA
+* **Deep Learning**
 * **n8n Automation**
-* **Vibe coding**
-* **Fullstack Web Development** (MERN)
+* **Fullstack Web Development** 
 * **DevOps** (Docker, CI/CD Pipelines)
 
 ---
