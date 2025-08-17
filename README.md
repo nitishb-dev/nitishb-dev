@@ -110,17 +110,14 @@ const nitish = {
 
 ---
 
-## 📊 GitHub Analytics
-
+📊 GitHub Analytics
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nitishb-dev&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Nitish's GitHub Stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishb-dev&layout=compact&hide_border=true&title_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishb-dev&layout=compact&hide_border=true&title_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishb-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=nitishb-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000&ring=00b4d6&fire=00b4d6&currStreakLabel=00b4d6" alt="GitHub Streak" />
 </div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nitishb-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
 </div>
