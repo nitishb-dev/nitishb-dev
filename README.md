@@ -1,23 +1,24 @@
-# <div align="center">🚀 **Nitish B** | Software Developer & Tech Enthusiast</div>
-
 <div align="center">
-  
+
+# 🚀 **Nitish B** | Software Developer & Tech Enthusiast
+
 ![Profile Views](https://komarev.com/ghpvc/?username=nitishb-dev&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/nitishb-dev?label=Followers&style=social)](https://github.com/nitishb-dev?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/nitishb-dev?label=Profile%20Stars&style=social)](https://github.com/nitishb-dev)
 
-</div>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Structures+%26+Algorithms+Enthusiast+%F0%9F%A7%A0;Deep+Learning+Explorer+%F0%9F%A4%96;Automation+%26+DevOps+Engineer+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Data+Structures+%26+Algorithms+Enthusiast+%F0%9F%A7%A0;Deep+Learning+Explorer+%F0%9F%A4%96;Automation+%26+DevOps+Engineer+%E2%9A%A1;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
 
+<div align="center">
 <table align="center">
 <tr>
 <td valign="top" width="50%">
@@ -47,6 +48,7 @@ const nitish = {
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
