@@ -30,7 +30,7 @@ const nitish = {
   location: "India 🇮🇳",
   role: "Software Developer",
   passion: ["Problem Solving", "Building Solutions"],
-  currentFocus: "Full Stack Development & AI",
+  currentFocus: "Vibe Coding, AI Automation & MCP Servers",
   funFact: "I turn coffee into code ☕➡️💻"
 }
 ```
