@@ -64,22 +64,6 @@ const nitish = {
 
 ---
 
-## 🎯 Currently Mastering
-
-<div align="center">
-
-| 🎓 Learning Track | 📈 Progress | 🎯 Goal |
-|-------------------|-------------|---------|
-| **DSA with Java** | 🟩🟩🟩🟨⬜ | Master Problem Solving |
-| **Deep Learning** | 🟩🟩🟨⬜⬜ | Build AI Applications |
-| **n8n Automation** | 🟩🟩🟩⬜⬜ | Workflow Automation |
-| **Full Stack Development** | 🟩🟩🟩🟩⬜ | End-to-End Solutions |
-| **DevOps & CI/CD** | 🟩🟩⬜⬜⬜ | Production Deployment |
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 
