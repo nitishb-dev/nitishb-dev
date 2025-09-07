@@ -156,7 +156,8 @@ const nitish = {
 
 ---
 
-📊 GitHub Analytics
+### 📊 GitHub Analytics
+
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=nitishb-dev&show_icons=true&count_private=true&hide_border=true&title_color=00b4d6&icon_color=00b4d8&text_color=c9d1d9&bg_color=0d1117" alt="Nitish's GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitishb-dev&layout=compact&hide_border=true&title_color=00b4d6&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
