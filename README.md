@@ -152,14 +152,6 @@ const nitish = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitishb-dev&theme=discord&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
-
----
-
 ## 🌐 Let's Connect
 
 <div align="center">
