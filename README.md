@@ -36,7 +36,7 @@ const nitish = {
 
 🌟 **Building impactful software solutions**  
 🎯 **Focused on modern tech stacks**  
-🔥 **Always exploring new technologies**  
+🔥 **Always exploring new AI Tools & technologies**  
 💡 **Love automating workflows**
 
 </td>
