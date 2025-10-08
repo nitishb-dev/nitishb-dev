@@ -171,4 +171,8 @@ const nitish = {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=white&animation=twinkling" width="100%" />
 </div>
 
+<div align="center">
+  
+**✨ "Code is like humor. When you have to explain it, it's bad." – Cory House ✨**
 
+</div>
