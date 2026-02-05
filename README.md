@@ -25,19 +25,14 @@
 
 ### 👨‍💻 About Me
 
-```typescript
-const nitish = {
-  location: "India 🇮🇳",
-  role: "Software Developer",
-  passion: ["Problem Solving", "Building Solutions"],
-  funFact: "I turn coffee into code ☕➡️💻"
-}
-```
+Hey there! 👋  
+I’m Nitish — a final-year SDE student who loves turning ideas into working software.
 
-🌟 **Building impactful software solutions**  
-🎯 **Focused on modern tech stacks**  
-🔥 **Always exploring new AI Tools & technologies**  
-💡 **Love automating workflows**
+🛠 Backend & Full-Stack Developer  
+🤖 Exploring AI-driven applications  
+📈 Enjoy solving real-world problems with clean code
+
+Tech Stack: React | Python | Django | Postgres | Git 
 
 </td>
 <td valign="top" width="50%">
